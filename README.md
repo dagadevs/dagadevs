@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&duration=3000&pause=1000&color=E8608A&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Carol!+🍒;Desenvolvedora+em+formação+🌸;ADS+%7C+Estácio+2025+✨;Apaixonada+por+tecnologia+💻" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-🎓 Formada ADS · Estácio 2025-fde8f0?style=for-the-badge&labelColor=fde8f0&color=e8608a&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓 Formada ADS · Estácio 2025-e8608a?style=for-the-badge&labelColor=fde8f0&color=e8608a" />
 &nbsp;
-<img src="https://img.shields.io/badge/-📍 São José do Rio Preto · SP-fde8f0?style=for-the-badge&labelColor=fde8f0&color=d4537e" />
+<img src="https://img.shields.io/badge/📍 São José do Rio Preto · SP-d4537e?style=for-the-badge&labelColor=fde8f0&color=d4537e" />
 &nbsp;
-<img src="https://img.shields.io/badge/-🔍 Buscando 1ª Oportunidade-fde8f0?style=for-the-badge&labelColor=fde8f0&color=f48db4" />
-
-<br/><br/>
+<img src="https://img.shields.io/badge/🔍 Buscando 1ª Oportunidade-f48db4?style=for-the-badge&labelColor=fde8f0&color=f48db4" />
 
 </div>
 
@@ -25,33 +22,32 @@
 
 <br/>
 
-<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<table>
+  <tr>
+    <td valign="top" width="65%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;Oi! Sou a **Carol** — Ana Carolina Daga 🍒
+Oi! Sou a **Carol** — Ana Carolina Daga 🍒
 
-&nbsp;&nbsp;&nbsp;&nbsp;Me formei em **Análise e Desenvolvimento de Sistemas**
-&nbsp;&nbsp;&nbsp;&nbsp;pela Estácio em **dezembro de 2025** e estou dando meus
-&nbsp;&nbsp;&nbsp;&nbsp;primeiros passos no mundo da tecnologia. 💻
+Me formei em **Análise e Desenvolvimento de Sistemas** pela Estácio em **dezembro de 2025** e estou dando meus primeiros passos no mundo da tecnologia! 💻
 
-&nbsp;&nbsp;&nbsp;&nbsp;Tenho carinho especial pelo **front-end** — adoro criar
-&nbsp;&nbsp;&nbsp;&nbsp;interfaces bonitas e funcionais — e agora estou focando
-&nbsp;&nbsp;&nbsp;&nbsp;meus estudos no **back-end**, mergulhando em Java e MySQL. 🌱
+Tenho carinho especial pelo **front-end** — adoro criar interfaces bonitas e funcionais — e agora estou focando meus estudos no **back-end**, mergulhando em Java e MySQL. 🌱
 
-&nbsp;&nbsp;&nbsp;&nbsp;Aberta a qualquer área de TI, sempre disposta a aprender! ✨
+Aberta a qualquer área de TI, sempre disposta a aprender! ✨
 
 <br/>
 
-<div align="center">
+![](https://img.shields.io/badge/💡 Foco atual-Back--end %26 Java-e8608a?style=flat-square&labelColor=fde8f0)
+![](https://img.shields.io/badge/🎯 Objetivo-Primeira vaga em TI-d4537e?style=flat-square&labelColor=fde8f0)
+![](https://img.shields.io/badge/❤️ Paixão-Web Dev %26 UI%2FUX-f48db4?style=flat-square&labelColor=fde8f0)
 
-![](https://img.shields.io/badge/💡_Foco_atual-Back--end_&_Java-e8608a?style=flat-square&labelColor=fde8f0)
-&nbsp;
-![](https://img.shields.io/badge/🎯_Objetivo-Primeira_vaga_em_TI-d4537e?style=flat-square&labelColor=fde8f0)
-&nbsp;
-![](https://img.shields.io/badge/❤️_Paixão-Web_Dev_&_UI%2FUX-f48db4?style=flat-square&labelColor=fde8f0)
+  </td>
+  <td valign="top" width="35%" align="center">
 
-</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
 
-<br/>
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,11 +84,11 @@
 <div align="center">
 <br/>
 
-![Java](https://img.shields.io/badge/Java-%E2%98%95-e8608a?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e8608a?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-🐬-d4537e?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-d4537e?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
-![Back-end](https://img.shields.io/badge/Back--end-🔧-f48db4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Back-end](https://img.shields.io/badge/Back--end-f48db4?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <br/>
 
@@ -108,7 +104,7 @@
 <div align="center">
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&locale=pt-br&title_color=e8608a&icon_color=d4537e&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&hide_border=false&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&locale=pt-br&title_color=e8608a&icon_color=d4537e&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&count_private=true" />
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daga404&layout=compact&locale=pt-br&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&langs_count=6" />
 
@@ -130,12 +126,6 @@
 <div align="center">
 <br/>
 
-<!--
-  Barrinhas feitas à mão com muito carinho 🌸
-  Cada █ vale ~5% · sou honesta nos meus níveis!
-  Vou atualizando conforme for evoluindo 🍒
--->
-
 ```
   🌐  HTML5          ██████████████████░░  88%  Avançado
   🎨  CSS3           █████████████████░░░  82%  Avançado
@@ -150,7 +140,7 @@
   🐬  MySQL          ████████░░░░░░░░░░░░  40%  Estudando 🌱
 ```
 
-*cada bloco █ vale ~5% &nbsp;·&nbsp; feito por mim com muito carinho 🍒*
+*cada bloco █ vale ~5% · feito por mim com muito carinho 🍒*
 
 <br/>
 </div>
@@ -174,7 +164,6 @@
 ---
 
 <div align="center">
-
 <br/>
 
 🍒 *feito com carinho por mim · Carol · ADS 2025* 🌸
@@ -184,5 +173,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Daga404&color=e8608a&style=flat-square&label=visitas+no+perfil)
 
 <br/>
-
 </div>
