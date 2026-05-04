@@ -66,11 +66,9 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 ## 📊 Estatísticas do GitHub
 
-> ⚠️ **Lembre de trocar `SEU_USUARIO` pelo seu usuário real do GitHub nos links abaixo!**
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=light&title_color=e8608a&icon_color=c94070&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&hide_border=false" />
+<img height="180em" src="https://github.com/Daga404&show_icons=true&theme=light&title_color=e8608a&icon_color=c94070&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&hide_border=false" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=light&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4" />
 
@@ -78,7 +76,7 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=soft&background=fff8fb&border=f4bcd4&ring=e8608a&fire=c94070&currStreakLabel=e8608a&sideLabels=c94070&dates=b06080&stroke=fde8f0" />
+<img src="https://github.com/Daga404&theme=soft&background=fff8fb&border=f4bcd4&ring=e8608a&fire=c94070&currStreakLabel=e8608a&sideLabels=c94070&dates=b06080&stroke=fde8f0" />
 
 </div>
 
@@ -88,7 +86,7 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&title_color=e8608a&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github.com/Daga404&theme=flat&title_color=e8608a&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
