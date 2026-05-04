@@ -58,7 +58,7 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 ![Java](https://img.shields.io/badge/Java-e8608a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-c94070?style=for-the-badge&logo=mysql&logoColor=white)
-![Back--end](https://img.shields.io/badge/Back--end-f48db4?style=for-the-badge&logo=node.js&logoColor=white)
+![Back-end](https://img.shields.io/badge/Back--end-f48db4?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -68,15 +68,15 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 <div align="center">
 
-<img height="180em" src="https://github.com/Daga404&show_icons=true&theme=light&title_color=e8608a&icon_color=c94070&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&theme=light&title_color=e8608a&icon_color=c94070&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=light&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daga404&layout=compact&theme=light&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github.com/Daga404&theme=soft&background=fff8fb&border=f4bcd4&ring=e8608a&fire=c94070&currStreakLabel=e8608a&sideLabels=c94070&dates=b06080&stroke=fde8f0" />
+<img src="https://streak-stats.demolab.com?user=Daga404&theme=soft&background=fff8fb&border=f4bcd4&ring=e8608a&fire=c94070&currStreakLabel=e8608a&sideLabels=c94070&dates=b06080&stroke=fde8f0" />
 
 </div>
 
@@ -86,27 +86,39 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 <div align="center">
 
-[![trophy](https://github.com/Daga404&theme=flat&title_color=e8608a&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daga404&theme=flat&title_color=e8608a&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🌸 Habilidades — nível de conhecimento
+## 🍒 Minhas habilidades
 
-| Tecnologia | Nível | Progresso |
-|---|---|---|
-| 🌐 HTML5 | Avançado | ████████░░ 85% |
-| 🎨 CSS3 | Avançado | ████████░░ 80% |
-| ⚡ JavaScript ES6+ | Intermediário | ███████░░░ 70% |
-| ⚛️ React.js | Intermediário | ██████░░░░ 65% |
-| 🟢 Node.js | Básico/Intermediário | █████░░░░░ 55% |
-| 🗄️ SQL | Intermediário | ██████░░░░ 62% |
-| 🐙 Git / GitHub | Intermediário | ███████░░░ 70% |
-| 🖌️ Figma | Intermediário | ██████░░░░ 65% |
-| 📐 Governança de TI | Intermediário | ██████░░░░ 60% |
-| ☕ Java | Estudando 🌱 | ████░░░░░░ 40% |
-| 🐬 MySQL | Estudando 🌱 | ████░░░░░░ 40% |
+<div align="center">
+
+<!--
+  Barrinhas feitas à mão com carinho 🌸
+  Cada █ vale ~5% — fiz questão de ser honesta!
+  Estou sempre evoluindo e atualizando isso por aqui 🍒
+-->
+
+```
+  HTML5          🌐  ██████████████████░░  88%  Avançado
+  CSS3           🎨  █████████████████░░░  82%  Avançado
+  JavaScript     ⚡  ███████████████░░░░░  74%  Intermediário
+  React.js       ⚛️  █████████████░░░░░░░  65%  Intermediário
+  Git / GitHub   🐙  ██████████████░░░░░░  70%  Intermediário
+  Figma          🖌️  █████████████░░░░░░░  68%  Intermediário
+  Node.js        🟢  ████████████░░░░░░░░  58%  Básico-Intermediário
+  SQL            🗄️  ████████████░░░░░░░░  62%  Intermediário
+  Governança TI  📐  ████████████░░░░░░░░  60%  Intermediário
+  Java           ☕  ████████░░░░░░░░░░░░  40%  Estudando 🌱
+  MySQL          🐬  ████████░░░░░░░░░░░░  40%  Estudando 🌱
+```
+
+*cada bloco █ vale ~5% · feito por mim com muito carinho 🍒*
+
+</div>
 
 ---
 
@@ -115,7 +127,7 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e8608a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-c94070?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-c94070?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daga404)
 [![Gmail](https://img.shields.io/badge/Gmail-f48db4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
@@ -124,8 +136,8 @@ Tenho experiência com **front-end** — HTML, CSS, JavaScript e React — e ago
 
 <div align="center">
 
-🍒 *feito com carinho · Carol · ADS 2025* 🌸
+🍒 *feito com carinho por mim · Carol · ADS 2025* 🌸
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=e8608a&style=flat-square&label=visitas+no+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=Daga404&color=e8608a&style=flat-square&label=visitas+no+perfil)
 
 </div>
