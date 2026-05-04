@@ -1,9 +1,6 @@
-<!-- HEADER ONDA ROSA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fde8f0,50:f48db4,100:e8608a&height=180&section=header&text=Ana%20Carolina%20Daga&fontSize=42&fontColor=fff&fontAlignY=55&desc=✨%20Desenvolvedora%20em%20formação%20·%20ADS%20·%20SP%20✨&descSize=16&descAlignY=78&animation=fadeIn" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&duration=3000&pause=1000&color=E8608A&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Carol!+🍒;Desenvolvedora+em+formação+🌸;ADS+%7C+Estácio+2025+✨;Focando+no+back-end+agora+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=E8608A&center=true&vCenter=true&width=600&height=80&lines=Olá%2C+eu+sou+a+Carol!+🍒;Desenvolvedora+em+formação+🌸;ADS+%7C+Estácio+2025+✨;Focando+no+back-end+agora+💻" alt="Typing SVG" />
 
 <br/>
 
@@ -17,10 +14,6 @@
 
 ## 🌸 · sobre mim · 🌸
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="60%" valign="top">
-
 Oi! Sou a **Carol** 🍒
 
 Me formei em **Análise e Desenvolvimento de Sistemas** pela Estácio em **dezembro de 2025** e estou dando meus primeiros passos no mundo da tecnologia.
@@ -29,24 +22,11 @@ Tenho carinho especial pelo **front-end** — adoro transformar ideias em interf
 
 Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 
-<br/>
-
-**🍒 Algumas coisas sobre mim:**
-
-- 💻 Atualmente estudando `Java` e `MySQL`
-- 🎨 Tenho interesse em `UI/UX` e `Web Design`
+- 💻 Estudando `Java` e `MySQL`
+- 🎨 Interesse em `UI/UX` e `Web Design`
 - 🌱 Sempre aprendendo e evoluindo
 - 📍 São José do Rio Preto, SP — Brasil
 - 🎓 Formada em ADS pela Estácio (dez/2025)
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:12px" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -99,7 +79,7 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 <div align="center">
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&locale=pt-br&title_color=e8608a&icon_color=d4537e&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&count_private=true&hide_border=false" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&locale=pt-br&title_color=e8608a&icon_color=d4537e&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&count_private=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daga404&layout=compact&locale=pt-br&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&langs_count=6" />
 
 <br/><br/>
@@ -116,102 +96,94 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 <div align="center">
 <br/>
 
-<!-- SVG de habilidades feito à mão com carinho 🌸 -->
-<svg width="600" height="380" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f48db4"/>
-      <stop offset="100%" style="stop-color:#e8608a"/>
-    </linearGradient>
-    <style>
-      .label { font: 13px 'Segoe UI', sans-serif; fill: #7a1a3e; }
-      .pct   { font: 12px 'Segoe UI', sans-serif; fill: #c94070; font-weight: bold; }
-      .lvl   { font: 11px 'Segoe UI', sans-serif; fill: #b06080; }
-    </style>
-  </defs>
+<svg width="580" height="370" viewBox="0 0 580 370" xmlns="http://www.w3.org/2000/svg">
 
   <!-- fundo -->
-  <rect width="600" height="380" rx="16" fill="#fff8fb" stroke="#f4bcd4" stroke-width="1.5"/>
+  <rect width="580" height="370" rx="16" fill="#fff8fb" stroke="#f4bcd4" stroke-width="1.5"/>
 
   <!-- título -->
-  <text x="300" y="32" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="15" fill="#e8608a" font-weight="bold">🍒 nível de conhecimento · feito por mim com carinho 🌸</text>
+  <text x="290" y="30" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#e8608a" font-weight="bold">🍒 feito por mim com carinho · cada barra = nível atual 🌸</text>
+
+  <!-- linha separadora -->
+  <line x1="20" y1="40" x2="560" y2="40" stroke="#f4bcd4" stroke-width="1"/>
 
   <!-- HTML5 -->
-  <text x="20" y="65" class="label">🌐 HTML5</text>
-  <rect x="160" y="52" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="52" width="281" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="63" class="pct">88%</text>
-  <text x="538" y="63" class="lvl">Avançado</text>
+  <text x="18" y="68" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🌐 HTML5</text>
+  <rect x="155" y="57" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="57" width="273" height="11" rx="5" fill="#e8608a"/>
+  <text x="474" y="67" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">88%</text>
+  <text x="508" y="67" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Avançado</text>
 
   <!-- CSS3 -->
-  <text x="20" y="95" class="label">🎨 CSS3</text>
-  <rect x="160" y="82" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="82" width="263" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="93" class="pct">82%</text>
-  <text x="538" y="93" class="lvl">Avançado</text>
+  <text x="18" y="98" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🎨 CSS3</text>
+  <rect x="155" y="87" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="87" width="254" height="11" rx="5" fill="#e8608a"/>
+  <text x="474" y="97" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">82%</text>
+  <text x="508" y="97" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Avançado</text>
 
   <!-- JavaScript -->
-  <text x="20" y="125" class="label">⚡ JavaScript</text>
-  <rect x="160" y="112" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="112" width="237" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="123" class="pct">74%</text>
-  <text x="536" y="123" class="lvl">Intermediário</text>
+  <text x="18" y="128" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">⚡ JavaScript</text>
+  <rect x="155" y="117" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="117" width="230" height="11" rx="5" fill="#d4537e"/>
+  <text x="474" y="127" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">74%</text>
+  <text x="504" y="127" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- React.js -->
-  <text x="20" y="155" class="label">⚛️ React.js</text>
-  <rect x="160" y="142" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="142" width="208" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="153" class="pct">65%</text>
-  <text x="536" y="153" class="lvl">Intermediário</text>
+  <text x="18" y="158" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">⚛️ React.js</text>
+  <rect x="155" y="147" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="147" width="202" height="11" rx="5" fill="#d4537e"/>
+  <text x="474" y="157" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">65%</text>
+  <text x="504" y="157" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- Git / GitHub -->
-  <text x="20" y="185" class="label">🐙 Git / GitHub</text>
-  <rect x="160" y="172" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="172" width="224" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="183" class="pct">70%</text>
-  <text x="536" y="183" class="lvl">Intermediário</text>
+  <text x="18" y="188" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🐙 Git / GitHub</text>
+  <rect x="155" y="177" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="177" width="217" height="11" rx="5" fill="#d4537e"/>
+  <text x="474" y="187" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">70%</text>
+  <text x="504" y="187" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- Figma -->
-  <text x="20" y="215" class="label">🖌️ Figma</text>
-  <rect x="160" y="202" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="202" width="218" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="213" class="pct">68%</text>
-  <text x="536" y="213" class="lvl">Intermediário</text>
+  <text x="18" y="218" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🖌️ Figma</text>
+  <rect x="155" y="207" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="207" width="211" height="11" rx="5" fill="#d4537e"/>
+  <text x="474" y="217" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">68%</text>
+  <text x="504" y="217" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- Node.js -->
-  <text x="20" y="245" class="label">🟢 Node.js</text>
-  <rect x="160" y="232" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="232" width="186" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="243" class="pct">58%</text>
-  <text x="523" y="243" class="lvl">Básico-Inter.</text>
+  <text x="18" y="248" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🟢 Node.js</text>
+  <rect x="155" y="237" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="237" width="180" height="11" rx="5" fill="#f48db4"/>
+  <text x="474" y="247" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">58%</text>
+  <text x="498" y="247" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Básico-Inter.</text>
 
   <!-- SQL -->
-  <text x="20" y="275" class="label">🗄️ SQL</text>
-  <rect x="160" y="262" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="262" width="198" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="273" class="pct">62%</text>
-  <text x="536" y="273" class="lvl">Intermediário</text>
+  <text x="18" y="278" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🗄️ SQL</text>
+  <rect x="155" y="267" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="267" width="192" height="11" rx="5" fill="#f48db4"/>
+  <text x="474" y="277" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">62%</text>
+  <text x="504" y="277" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- Governança TI -->
-  <text x="20" y="305" class="label">📐 Governança TI</text>
-  <rect x="160" y="292" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="292" width="192" height="12" rx="6" fill="url(#barGrad)"/>
-  <text x="490" y="303" class="pct">60%</text>
-  <text x="536" y="303" class="lvl">Intermediário</text>
+  <text x="18" y="308" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">📐 Governança TI</text>
+  <rect x="155" y="297" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="297" width="186" height="11" rx="5" fill="#f48db4"/>
+  <text x="474" y="307" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">60%</text>
+  <text x="504" y="307" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
 
   <!-- Java -->
-  <text x="20" y="335" class="label">☕ Java</text>
-  <rect x="160" y="322" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="322" width="128" height="12" rx="6" fill="#f4bcd4"/>
-  <text x="490" y="333" class="pct">40%</text>
-  <text x="530" y="333" class="lvl">Estudando 🌱</text>
+  <text x="18" y="338" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">☕ Java</text>
+  <rect x="155" y="327" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="327" width="124" height="11" rx="5" fill="#fbc4d8"/>
+  <text x="474" y="337" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">40%</text>
+  <text x="502" y="337" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Estudando 🌱</text>
 
   <!-- MySQL -->
-  <text x="20" y="365" class="label">🐬 MySQL</text>
-  <rect x="160" y="352" width="320" height="12" rx="6" fill="#fde8f0"/>
-  <rect x="160" y="352" width="128" height="12" rx="6" fill="#f4bcd4"/>
-  <text x="490" y="363" class="pct">40%</text>
-  <text x="530" y="363" class="lvl">Estudando 🌱</text>
+  <text x="18" y="362" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🐬 MySQL</text>
+  <rect x="155" y="351" width="310" height="11" rx="5" fill="#fde8f0"/>
+  <rect x="155" y="351" width="124" height="11" rx="5" fill="#fbc4d8"/>
+  <text x="474" y="361" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">40%</text>
+  <text x="502" y="361" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Estudando 🌱</text>
+
 </svg>
 
 <br/>
@@ -231,13 +203,11 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 [![Gmail](https://img.shields.io/badge/Gmail-f48db4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 <br/>
-</div>
-
-<!-- FOOTER ONDA ROSA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8608a,50:f48db4,100:fde8f0&height=120&section=footer&text=feito%20com%20carinho%20por%20mim%20🍒&fontSize=16&fontColor=fff&fontAlignY=65&animation=fadeIn" />
-
-<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Daga404&color=e8608a&style=flat-square&label=visitas+no+perfil)
+
+<br/>
+
+🍒 *feito com carinho por mim · Carol · ADS 2025* 🌸
 
 </div>
