@@ -18,7 +18,7 @@ Oi! Sou a **Carol** 🍒
 
 Me formei em **Análise e Desenvolvimento de Sistemas** pela Estácio em **dezembro de 2025** e estou dando meus primeiros passos no mundo da tecnologia.
 
-Tenho carinho especial pelo **front-end** adoro transformar ideias em interfaces bonitas e funcionais. Agora estou com foco total nos estudos de **back-end**, mergulhando em Java e MySQL. 🌱
+Tenho carinho especial pelo **front-end** — adoro transformar ideias em interfaces bonitas e funcionais. Agora estou com foco total nos estudos de **back-end**, mergulhando em Java e MySQL. 🌱
 
 Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 
@@ -100,11 +100,6 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 <div align="center">
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&locale=pt-br&title_color=e8608a&icon_color=d4537e&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daga404&layout=compact&locale=pt-br&title_color=e8608a&text_color=7a1a3e&bg_color=fff8fb&border_color=f4bcd4&border_radius=12&langs_count=6" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Daga404&locale=pt_BR&background=fff8fb&border=f4bcd4&ring=e8608a&fire=d4537e&currStreakLabel=e8608a&sideLabels=d4537e&dates=b06080&stroke=fde8f0&border_radius=12" />
 
 <br/>
@@ -117,11 +112,11 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 <div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8608a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8608a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-daga-6a8595406/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-d4537e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daga404)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-f48db4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-f48db4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caroldaga2@gmail.com)
 
 <br/>
 
