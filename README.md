@@ -18,7 +18,7 @@ Oi! Sou a **Carol** 🍒
 
 Me formei em **Análise e Desenvolvimento de Sistemas** pela Estácio em **dezembro de 2025** e estou dando meus primeiros passos no mundo da tecnologia.
 
-Tenho carinho especial pelo **front-end** — adoro transformar ideias em interfaces bonitas e funcionais. Agora estou com foco total nos estudos de **back-end**, mergulhando em Java e MySQL. 🌱
+Tenho carinho especial pelo **front-end** adoro transformar ideias em interfaces bonitas e funcionais. Agora estou com foco total nos estudos de **back-end**, mergulhando em Java e MySQL. 🌱
 
 Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 
