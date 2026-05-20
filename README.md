@@ -89,8 +89,6 @@ Atualmente focando meus estudos em Java, MySQL e back-end.
 ![](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Back--end-222222?style=for-the-badge)
 
-<br/><br/>
-
 > `const evolução = esforço + consistência;`
 
 </div>
