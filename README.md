@@ -122,21 +122,6 @@ Atualmente focando meus estudos em Java, MySQL e back-end.
 ---
 
 <div align="center">
-
-# ✦ projetos ✦
-
-</div>
-
-<div align="center">
-
-| projeto | tecnologias | descrição |
-|---|---|---|
-| CRM em Java | Java · MySQL | CRM focado em organização de clientes e histórico |
-| Menu CLI | Java | Projeto para praticar menus dinâmicos e POO |
-| Estudos Back-end | Java · SQL | Repositório de evolução e aprendizado |
-
-</div>
-
 ---
 
 <div align="center">
