@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=42&duration=3500&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&height=90&lines=Ana+Carolina+Daga.;desenvolvedora+em+formação.;ADS+·+Estácio+2025." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=42&duration=3500&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&height=90&lines=Carol.;desenvolvedora+em+formação.;ADS+·+Estácio+2025." />
 
 <br/>
 
