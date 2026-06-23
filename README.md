@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Daga404&color=F27FB1&style=flat-square&label=visitas" />
+<img src="https://komarev.com/ghpvc/?username=dagadevs&color=F27FB1&style=flat-square&label=visitas" />
 
 </div>
 
