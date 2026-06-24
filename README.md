@@ -296,7 +296,7 @@ public class Carol {
 <br/><br/>
 
 <sub>
-  aberta para conversar sobre estudos, projetos, tecnologia e oportunidades ✨
+  aberta para conversar sobre estudos, projetos, tecnologia e oportunidades 🪐
 </sub>
 
 </div>
